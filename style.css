@@ -60,20 +60,6 @@ h1{
    display: flex;
 }
 
-.ch2{
-   width: 45%;
-   float: right;
-   margin: 20px;  
-   text-align: center;
-   
-}
-
-#img1{
-   border-radius: 25PX;
-   width: 80%;
-   border: 3px #f4eded solid;
-}
-
 .ch1 {
    width: 55%;
    float: left;
@@ -90,6 +76,19 @@ h1{
    width: 300px;
 }
 
+.ch2{
+   width: 45%;
+   float: right;
+   margin: 20px;  
+   text-align: center;
+   
+}
+
+#img1{
+   border-radius: 25PX;
+   width: 80%;
+   border: 3px #f4eded solid;
+}
 
 
 .line{
@@ -166,6 +165,7 @@ footer{
    text-align: center;
    padding: 17px;
 }
+
 
 
 
