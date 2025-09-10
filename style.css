@@ -60,7 +60,21 @@ h1{
    display: flex;
 }
 
-.ch1 {
+.ch1{
+   width: 45%;
+   float: right;
+   margin: 20px;  
+   text-align: center;
+   
+}
+
+#img1{
+   border-radius: 25PX;
+   width: 80%;
+   border: 3px #f4eded solid;
+}
+
+.ch2 {
    width: 55%;
    float: left;
    padding: 10px 0;
@@ -76,19 +90,7 @@ h1{
    width: 300px;
 }
 
-.ch2{
-   width: 45%;
-   float: right;
-   margin: 20px;  
-   text-align: center;
-   
-}
 
-#img1{
-   border-radius: 25PX;
-   width: 80%;
-   border: 3px #f4eded solid;
-}
 
 .line{
    border: 1px #f4eded solid;
@@ -164,5 +166,6 @@ footer{
    text-align: center;
    padding: 17px;
 }
+
 
 
