@@ -60,7 +60,7 @@ h1{
    display: flex;
 }
 
-.ch1{
+.ch2{
    width: 45%;
    float: right;
    margin: 20px;  
@@ -74,7 +74,7 @@ h1{
    border: 3px #f4eded solid;
 }
 
-.ch2 {
+.ch1 {
    width: 55%;
    float: left;
    padding: 10px 0;
@@ -166,6 +166,7 @@ footer{
    text-align: center;
    padding: 17px;
 }
+
 
 
 
