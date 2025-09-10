@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700;800&splay=swap');
+
+*{
+   margin: 0;
+   padding: 0;
+}
+body {
+   font-family: 'Poppins',sans-serif;
+   font-weight: 400;
+   width: 100%;
+   /* height: 500vh; */
+   /* background: #282828; */
+   /* background: #ADADAD; */
+   background-color: #1A1A1D;
+   color: #f4eded;
+   display: flex; 
+   flex-direction: column; 
+   min-height: 100vh; 
+}
+
+
+header{width: 98%;}
+
+main{flex: 1;}
+
+/* #logo1{padding: 30px 0;} */
+
+#log1{
+   width: 30%;
+   padding: 30px ;
+}
+
+#logo2{
+   width: 25%;
+   float: right;
+   /* padding: 20px 0; */
+}
+
+#log2{
+   width: 80%;
+   padding: 20px 0;
+}
+
+#pr {
+   padding: 10px 0;
+   font-size: 100px;
+}
+
+h1{
+   text-transform: uppercase;
+   text-align: center;
+   position: relative;
+}
+
+
+.block1 { 
+   padding: 50px 0;
+   width: 100%;
+   font-size: 27px;
+   display: flex;
+}
+
+.ch1 {
+   width: 55%;
+   float: left;
+   padding: 10px 0;
+   text-align: center;
+   height: 400px;
+   /* color: #f4eded; */
+   margin: 30PX;
+
+   
+}
+
+#peg{
+   width: 300px;
+}
+
+.ch2{
+   width: 45%;
+   float: right;
+   margin: 20px;  
+   text-align: center;
+   
+}
+
+#img1{
+   border-radius: 25PX;
+   width: 80%;
+   border: 3px #f4eded solid;
+}
+
+.line{
+   border: 1px #f4eded solid;
+}
+
+.block2{   
+   padding: 50px 0;
+   width: 100%;
+   font-size: 27px;
+   display: flex;
+}
+.ch3{
+   width: 45%;
+   float: left;
+   text-align: center; 
+}
+
+#img2{
+   border-radius: 25PX;
+   width: 60%;
+   border: 3px #f4eded solid;
+}
+
+.ch4{
+   width: 55%;
+   float: right;
+   text-align: center;
+   padding: 20px 0;
+   height: 400px;
+   /* color: #f4eded; */
+   margin: 30PX;
+}
+
+.block3{
+   padding: 50px 0;
+   width: 100%;
+   font-size: 27px;
+   display: flex;
+}
+
+footer{
+
+   background-color: #333;
+   color: #fff;
+   text-align: center;
+   padding: 17px;
+}
