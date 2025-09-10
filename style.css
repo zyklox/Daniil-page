@@ -129,6 +129,19 @@ h1{
    display: flex;
 }
 
+.ch5{
+   width: 100%;
+   float: right;
+   text-align: center;
+   padding: 20px 0;
+   height: 200px;
+   margin: 30PX;
+}
+
+#last{
+   padding: 10px 0;
+}
+
 footer{
 
    background-color: #333;
@@ -136,3 +149,4 @@ footer{
    text-align: center;
    padding: 17px;
 }
+
