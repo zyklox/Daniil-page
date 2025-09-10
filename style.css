@@ -142,6 +142,21 @@ h1{
    padding: 10px 0;
 }
 
+.ch6{
+   width: 100%;
+   text-align: center;
+   height: 50px;
+   padding: 20px 0;
+}
+
+a{
+   color: #f4eded;
+   text-decoration: none;
+   font-family: 'Poppins',sans-serif;
+   font-weight: 400;
+   font-size: 27px;
+}
+
 footer{
 
    background-color: #333;
@@ -149,4 +164,5 @@ footer{
    text-align: center;
    padding: 17px;
 }
+
 
